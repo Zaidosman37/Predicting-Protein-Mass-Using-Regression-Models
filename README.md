@@ -8,7 +8,9 @@ I have made around 11 models revolving around the problem statement and the main
 
 In order to simplify the calculations and to increase the efficiency , I have created a function which takes values and gives us the required answers.
 
-The RMSE Values has to be kept minimum and out of all 11 models, Linear Regression gave me the lowest RMSE values for the Test score.
+Before the final submission, the xtest was not scaled, so it was scaled and then passed on for prediction.
+
+The RMSE Values has to be kept minimum and out of all 11 models, Fined Tuned RandomForest Regressor  gave me the lowest RMSE values for the Test score.
 
 Sharing the Jupyter file along with the files that were required in this analysis.
 

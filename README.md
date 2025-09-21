@@ -1,6 +1,6 @@
 This is Practise python file with the Help of MachineHack website to perform some Models based on the Problem Statement.
 
-Link --> https://machinehack.com/hackathons/biohack_predicting_protein_mass/overview
+Challenge Link- https://machinehack.com/hackathons/biohack_predicting_protein_mass
 
 I performed some basic EDA practises as the data was already neat and clean as the main objective was to practise on building models for this Regression problem.
 
